@@ -1,0 +1,24 @@
+.heroTop{
+    background-color: #111;
+    padding: 1rem 1rem;
+    color: #e6eb58;
+}
+
+.heroDiv {
+    background-color: #e6eb58;
+}
+
+.heroData {
+    padding: 4rem;
+    font-size: 2rem;
+}
+
+.imgPics {
+    width: 80%;
+    height: 100%;
+}
+
+.imgDiv {
+    height: 100%;
+}
+

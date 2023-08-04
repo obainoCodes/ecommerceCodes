@@ -1,0 +1,39 @@
+.footerContainer{
+    background-color: #111;
+}
+
+.footerh6{
+    color: #e6eb58;
+    font-weight: 500;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.column{
+    display: flex;
+    justify-content: center;
+}
+
+.column p{
+    font-size: 12px;
+    color: whitesmoke;
+}
+
+.menu, .contact{
+    font-size: 12px;
+    color : gray;
+    text-decoration: none;
+}
+
+.menu:hover{
+    text-decoration: underline;
+}
+
+.black:hover{
+    background-color: black ;
+}
+
+.image{
+    width: 2.5rem;
+    padding: 0 8px;
+}

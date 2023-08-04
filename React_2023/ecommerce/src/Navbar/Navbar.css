@@ -1,0 +1,35 @@
+.navbarContainer{
+    background-color: #e6ecf2;
+}
+
+.cartLink {
+    position: relative;
+}
+
+.navbarBadge {
+    position: absolute;
+    font-size: 0.6rem;
+    bottom: 1.4rem;
+}
+
+.navbarLink {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.active{
+    color: blue;
+    text-decoration: none;
+}
+
+.notActive{
+    color: #111;
+    text-decoration: none;
+}
+
+.notActive:hover{
+    text-decoration: underline;
+}
+
+

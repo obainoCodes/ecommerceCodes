@@ -1,0 +1,144 @@
+[
+  
+    {
+      "id" :1,
+      "productName" : "Omega Planet Ocean 600M Co-Axial Chronograph 45.5 mm",
+      "productImage" : "images/product-1.avif",
+      "productPrice" : 4500,
+      "productDescription" : "The OMEGA Seamaster Planet Ocean 600M is water resistant to 600 metres / 2000 feet / 60 bar, and has a helium-escape valve. It is powered by the OMEGA Co-Axial calibre 9300 which can be seen through the transparent caseback."
+    },
+    {
+      "id" : 2,
+      "productName" : "Seiko Sarb033 on natural brown leather strap. (Landscape)",
+      "productImage" : "images/product-2.avif",
+      "productPrice" : 3350,
+      "productDescription" : "The watch is a dressy piece with a simple, clean design. The 38mm width will mean straps with at least a 2mm taper, will best suit the watch to complement the design. "
+    },
+    {
+      "id" : 3,
+      "productName" : "Explorer II Oyster, 42 mm, Oystersteel",
+      "productImage" : "images/product-3.avif",
+      "productPrice" : 7500,
+      "productDescription" : "The Explorer II is equipped with an additional 24-hour display; a dedicated hand circles the dial in 24 hours rather than the usual 12, pointing to a fixed bezel with 24 hour graduations.This function enables the wearer to distinguish the hours of the day from the hours of the night" 
+    },
+    {
+      "id" : 4,
+      "productName" : "Rolex Explorer 14270 ",
+      "productImage" : "images/product-4.webp",
+      "productPrice" : 10000,
+      "productDescription" : "The Rolex Explorer 14270 holds an interesting place in horological history.It has the rare distinction of being, quite likely, the very first modern Rolex sports watch, ushering in a new era of watchmaking and watch design for the brand."
+    },
+    {
+      "id" : 5,
+      "productName" : "Seiko SARB-033 Black on Black with black leather strap",
+      "productImage" : "images/product-5.avif",
+      "productPrice" : 6500,
+      "productDescription" : "Seiko SARB-033 Black on Black with a black leather strap.Manual and automatic winding capabilities, 300 ft (10 bar) water-resistant, Power reserve: approximately 41 hours, 21,600 vibrations per hour, Caliber 4R35"
+    },
+    {
+      "id" : 6,
+      "productName" : "Seiko SRP-779 Pepsi Turtle",
+      "productImage" : "images/product-6.avif",
+      "productPrice" : 12000,
+      "productDescription" : "The SRP779 is a dive watch with 200 meters water resistance and is secured by the screw-down crown. This watch can certainly be used for sports and for daily use."
+    },
+    {
+      "id" :7,
+      "productName" : "Orient Mako II USA White Dial dive watch on a black leather strap",
+      "productImage" : "images/product-7.avif",
+      "productPrice" : 9400,
+      "productDescription" : "Orient Mako II has a Water Resistant capacity of 200m (660ft): in General, suitable for Professional Marine Activity and serious surface water sports, but not diving"
+    },
+    {
+      "id" : 8,
+      "productName" : "Swiss Watch Flat Lay",
+      "productImage" :"images/product-8.avif",
+      "productPrice" : 4800,
+      "productDescription" : "Swiss Watch Flat Lay features a synthetic sapphire crystal facing with an incredibly high scratch resistance, in order to keep your watch clear for many years. The movement of Swiss Watch Flat Lay watches are hand-assembled;combined with the use of metal gearS ensures great quality internal mechanisms."
+    },
+    {
+      "id": 9,
+      "productName" : "Stainless Steel Watch on Black Leather Surface",
+      "productImage" : "images/product-9.avif",
+      "productPrice" : 18500,
+      "productDescription" : "One of its renowned feature is that it is highly resistant to corrosion and rust, making it a durable product. In addition to its durability,it is highly resistant to heat and wear."
+    },
+    {
+      "id" :10,
+      "productName" : "Emporio Armani Emporio Chronograph Black Stainless Steel",
+      "productImage" : "images/product-10.jpg",
+      "productPrice" : 20000,
+      "productDescription" : "Emporio Armani's 43mm watch features a black cd finish, sunray dial, lume stick indexes, chronograph movement and black stainless steel bracelet.It can withstand splashes in water over 30m."
+    },
+    {
+      "id" : 11,
+      "productName" : "Timex Expedition metal watch with white dials",
+      "productImage" : "images/product-11.avif",
+      "productPrice" : 14500,
+      "productDescription" : "It features a large, round silver-tone brass watch case with a flattened, brushed bezel that frames a white dial background with Arabic numerals, inset 24-hour notations, large, luminous stick hands (with seconds hand), and a date display at 3 o'clock."
+    },
+    {
+      "id" :12,
+      "productName" : "Samsung Galaxy Watch 46mm - Silver",
+      "productImage" : "images/product-12.webp",
+      "productPrice" : 8500,
+      "productDescription" : "Samsung galaxy watch 46mm -Silver, samsung smart watch series 4 of samsung galaxy gear, SM, celluler/Gps connect to all kinds of phone via bluetooth, easy to use and high quality colour silver ."
+    },
+    {
+      "id" : 13,
+      "productName" : "Samsung Galaxy Watch - 42mm - GPS - Bluetooth Black",
+      "productImage" : "images/product-13.webp",
+      "productPrice" : 3500,
+      "productDescription" : "Live a stronger, smarter life with Galaxy Watch at your wrist rest well and stay active with built in health tracking and a Bluetooth connection that keeps everything at your wrist plus, go for days without chargingGo nonstop for days on a single charge"
+    },
+    {
+      "id" :14,
+      "productName" : "Samsung Galaxy Watch4 44mm, Bluetooth, Wi-Fi, GPS - Black",
+      "productImage" : "images/product-14.jpg",
+      "productPrice" : 9000,
+      "productDescription" : "The Galaxy Watch4 looks premium and has a stainless steel case that also gives it a nice weight when worn. Its rotating bezel has a satisfying clicky feedback.You can also use it for navigating around the watch"
+    },
+    {
+      "id" : 15,
+      "productName" : "Samsung Galaxy Watch 5 Pro Bluetooth Smartwatch + Fitness Tracker",
+      "productImage" : "images/product-15.webp",
+      "productPrice" : 19500,
+      "productDescription" : "Samsung Galaxy Watch 5 Pro Bluetooth Smartwatch + Fitness Tracker - 45mm poseesses features as GLONASS, GPS and performs activities as measuring Blood oxygen, Electrocardiography, Glucose, Heart rate, Hours slept"
+    },
+    {
+      "id" :16,
+      "productName" : "Samsung Galaxy Watch Smartwatch 42mm - Rose Gold",
+      "productImage" : "images/product-16.webp",
+      "productPrice" : 4650,
+      "productDescription" : "Galaxy Watch3 gives you the freedom to call, text, stream music and get notification via Bluetooth connectivity. Holistic health monitoringKeep an eye on your fitness and health with SpO2,(4) VO2 max,(5) and heart-rate monitoring(6)"
+    },
+    {
+      "id" :17,
+      "productName" : "Tw8 Ultra 8 Smartwatch + Extra Watch Band",
+      "productImage" : "images/product-17.webp",
+      "productPrice" : 13500,
+      "productDescription" : "TW8 Ultra 2023 Newest Series 8 - 1.85inch large screen ultra Watch With NFC Watch 8 Ultra IWO Watch 8. There are two physical buttons on the right side of the case.It is responsible for the function of turning on the running back. The reverse side of the device receives a typical configuration"
+    },
+    {
+      "id" : 18,
+      "productName" : "Huawei Watch Gt 2 - Classic 46mm - Stainless Steel",
+      "productImage" : "images/product-18.webp",
+      "productPrice" : 19000,
+      "productDescription" : " HUAWEI WATCH GT series is always exploring the limits of smart watch battery life. With HUAWEI's self-developed wearable chip Kirin A1, the dual-chip design and intelligent power saving technology; it serves you day and night for up to 2 weeks"
+    },
+    {
+      "id" : 19,
+      "productName" : "Oraimo Tempo 2 Sport Watch Smart Fit Band - Ofb 20",
+      "productImage" : "images/product-19.webp",
+      "productPrice" : 7700,
+      "productDescription" : "Tempo 2 sports a 0.96-inch IPS multi-color display and also offers bigger fonts to offer better readability. It continuously monitors your heart rate and also gives you a count of the steps taken, distance covered and calories burnt in different training modules"
+    },
+    {
+      "id" : 20,
+      "productName" : "Oraimo Smart Watch - Osw-10",
+      "productImage" : "images/product-20.webp",
+      "productPrice" : 15000,
+      "productDescription" : " oraimo Tempo-W shows clear and bright colour on the 1.3 high-definition display. Get a wider, more dazzling view right on your wrist.And it will cue the call, text and favourite app alerts to keep you in touch with your schedule and your loved ones."
+    }
+]
+

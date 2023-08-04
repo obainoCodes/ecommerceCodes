@@ -1,0 +1,18 @@
+.productDiv {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.7rem 0rem;
+    background-color: #e6ecf2;
+}
+
+.productSectionLoop{
+    background-color: #e6ecf2;
+}
+
+.textNone{
+    text-decoration: none;
+}
+
+.cardPrice {
+    font-weight: 700;
+}

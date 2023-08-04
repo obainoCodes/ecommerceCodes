@@ -1,0 +1,23 @@
+.aboutPage{
+    background-color: #e6ecf2;
+}
+
+.topCol{
+    text-align: center;
+    background-color: #e6eb58;
+    padding: 1rem 0;
+}
+
+.aboutText{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.watchImg{
+    width: 75%;
+}
+
+.rowItalics{
+    font-size: 0.8rem;
+    font-weight: 500;
+}
