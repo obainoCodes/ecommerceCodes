@@ -17,7 +17,7 @@ function Home(props){
         .then(res => res.json())
         .then((data) => {
             if (data.message === 'city not found'){
-                alert ('City not found. Please check your spelling')
+                alert ('City not found. Please check your spelling');
             }else{
                 props.setSearchData(data);
             }
